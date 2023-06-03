@@ -1,1 +1,1 @@
-# EDA-on-Zomato-Restaurant-Rating-Predict-the-Zomato-Restaurant-Ratings-using-Machine-Learning
+# Zomato-Restaurant-Ratings-EDA and -Machine-Learning-Project
